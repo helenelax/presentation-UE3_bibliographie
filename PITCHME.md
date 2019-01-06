@@ -12,37 +12,28 @@
 <!--permet de sauter une ligne-->
 <!--<br>-->
 
+<!--Permet de faire des listes qui apparaissent progressivement-->
+<!--@ul-->
+<!-- - ligne 1 -->
+<!-- - ligne 2 -->
+<!--@ulend-->
 
-# Bibliographie 2019
+<!-- Permet de faire des partie de phrase qui apparaissent au fur et à mesure-->
+<!-- @css[fragment](Hello, World!) -->
+<!-- @css[fragment](Hello, World2) -->
+<!-- @css[fragment](Hello, World3) -->
+
+# Bibliographie
 
 ---
-
-@css[fragment](Hello, World!)
-@css[fragment](Hello, World2)
-@css[fragment](Hello, World3)
----
-@ul
-
-- Plain text list item
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item
-
-@ulend
----
-
-# GitPitch Pro
-
-#### The Markdown Presentation Service on Git
+essai speaker
 
 Note:
-
 - Offers a wide-range of enhanced presentation **tools** and **features**
 - Both on the desktop and in the cloud
 - Learn more on the GitPitch website at https://gitpitch.com
 ---
 
-@box[text-orange span-80 fragment](Mars Attacks # Greetings earthlings. We come in peace!)
-@box[text-orange span-80 fragment](Coucou)
 
 ---
 ## À quoi ça sert ?
@@ -64,7 +55,9 @@ Note:
 +++
 
 **Bibliographie = outil pour réussir une bonne argumentation**
+
 ---
+
 ## Niveau d'exigence
 0 Aucun travail bibliographique apparent  
 1 Sources bibliographiques consultées mais non apparentes  
@@ -75,10 +68,16 @@ Note:
 4 Bibliographie judicieusement utilisée pour argumenter quelques points  
 4+ Bibliographie systématiquement utilisée dans l’argumentation  
 5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport
+
 ---
+
 ## Les éléments qui doivent apparaitre dans une bibliographie
 ### Le type de document
-Note: Leur donner les documents et leur demander d'identifier le type 
+Note: 
+Leur donner les documents et leur demander d'identifier le type 
+
+---
+
 ### 5 types de documents
 * monographie
 * chapitre de monographie
@@ -86,7 +85,8 @@ Note: Leur donner les documents et leur demander d'identifier le type
 * article de revue
 * page web
 
-Note: Et un PDF ? Et un site web ?
+Note: 
+Et un PDF ? Et un site web ?
 
 ---
 
@@ -98,7 +98,8 @@ Note: Et un PDF ? Et un site web ?
 ### Quels sont les éléments importants ? Pourquoi ?
 Permettre au lecteur de se faire une idée sur le document
 
-Note: Par deux ils listent les éléments qui leurs semblent important pour chacun des 5 types, certains sont 
+Note: 
+Par deux ils listent les éléments qui leurs semblent important pour chacun des 5 types, certains sont communs
 
 ---
 
@@ -128,10 +129,13 @@ cf. e-sidoc
 1. Problématiser
 2. Trouver le vocabulaire utilisé dans le champs
 
+---  
+
 ## Petit test d'évaluation à la fin ?
 
-## Zotero
+---
 
+## Zotero
 
 ---
 Pour retrouver cette présentation : 
