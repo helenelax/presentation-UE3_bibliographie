@@ -1,4 +1,6 @@
 .reveal section img {
   border: 0; /*enlève la bordure aux images*/
   box-shadow: none;
+.align-gauche {
+  text-align : left;
 }

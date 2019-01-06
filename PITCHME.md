@@ -38,14 +38,13 @@ Note:
 ---
 ## À quoi ça sert ?
 
-@ul
 * Documenter et argumenter un travail
 * Valoriser son travail : appui et illustration de ses propres réflexions
 * Faire preuve d'honnêteté scientifique et intellectuelle
 * Aider le lecteur
 	* Identification rapide et facile des documents exploités
 	* Permet parfois de mieux cerner votre point de vue
-@ulend
+
 
 Note:
 - demander aux étudiant qui a déjà fait de la biblio  
@@ -59,7 +58,7 @@ Note:
 ---
 
 ## Niveau d'exigence
-0 Aucun travail bibliographique apparent  
+@css[align-gauche]0 Aucun travail bibliographique apparent  
 1 Sources bibliographiques consultées mais non apparentes  
 2 Liste de références  
 2+ Liste de références normalisées  
