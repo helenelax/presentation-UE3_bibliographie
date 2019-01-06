@@ -58,8 +58,8 @@ Note:
 ---
 
 ## Niveau d'exigence
-@css[align-gauche]0 Aucun travail bibliographique apparent  
-1 Sources bibliographiques consultées mais non apparentes  
+@css[align-gauche](0 Aucun travail bibliographique apparent)  
+@size[0.9em]1 Sources bibliographiques consultées mais non apparentes  
 2 Liste de références  
 2+ Liste de références normalisées  
 3 Références de la liste appelées dans le corps de texte  
