@@ -28,16 +28,17 @@
 ---
 ## À quoi ça sert ?
 
-* Documenter et argumenter un travail
-* Valoriser son travail : appui et illustration de ses propres réflexions
-* Faire preuve d'honnêteté scientifique et intellectuelle
-* Aider le lecteur
-
 Note:
 - demander aux étudiant qui a déjà fait de la biblio  
 - demander aux étudiants de chercher à quoi ça sert individuellement  
 	* puis de confronter à deux
 	* puis de donner la réponse
++++
+## À quoi ça sert ?
+* Documenter et argumenter un travail
+* Valoriser son travail : appui et illustration de ses propres réflexions
+* Faire preuve d'honnêteté scientifique et intellectuelle
+* Aider le lecteur
 
 +++
 * Aider le lecteur
@@ -53,7 +54,7 @@ Note:
 ## Niveau d'exigence
 @css[align-gauche](0 Aucun travail bibliographique apparent)  
 @size[0.5em](1 Sources bibliographiques consultées mais non apparentes)  
-2 Liste de références  
+@css[byline](2 Liste de références)  
 2+ Liste de références normalisées  
 3 Références de la liste appelées dans le corps de texte  
 3+. Toutes les références de la liste appelées  
