@@ -25,11 +25,12 @@
 
 # Bibliographie
 
+Note:
+- demander aux étudiant qui a déjà fait de la biblio  
 ---
 ## À quoi ça sert ?
 
 Note:
-- demander aux étudiant qui a déjà fait de la biblio  
 - demander aux étudiants de chercher à quoi ça sert individuellement  
 	* puis de confronter à deux
 	* puis de donner la réponse
@@ -78,9 +79,6 @@ Leur demander à quel niveau ils doivent être
 
 Varient selon le type de document
 
-Note: 
-Leur donner les documents et leur demander d'identifier le type 
-
 ---
 
 ### 4 types de documents
@@ -90,11 +88,13 @@ Leur donner les documents et leur demander d'identifier le type
 * page web
 
 Note: 
+* **Distribuer documents**
+* Identifier les types distribués
 * Vous en voyez d'autres ?
 * Il y en a d'autres : thèse, chapitre de monographie
 * Dans les faits, vous allez surtout référencer des livres, des articles et des contributions
 * Et un PDF ? Et un site web ?
-* **Distribuer documents**
+
 ---
 ### Quels sont les éléments importants ? Pourquoi ?
 Objectif : Permettre au lecteur de se faire une idée sur le document
@@ -105,6 +105,7 @@ Note:
 ---
 
 ### Monographie
+@ul
 * Auteur(s) (@color[gold](dans l'ordre où ils sont écrits))
 * Année de parution
 * Titre de la monographie 
@@ -112,28 +113,33 @@ Note:
 * Lieu d'édition
 * Nombre de pages
 * Collection
+@ulend
 
 +++
 
 ### Contribution à une monographie
+@ul
 Mêmes éléments que la monographie @color[gold](+)
 * Titre de la contribution
 * Auteur(s) de la contribution
 * Numéros de pages où se trouve la contribution
+@ulend
 
 +++
 
 ### Article de revue
+@ul
 * Auteur(s) (@color[gold](dans l'ordre où ils sont écrits))
 * Année de parution
 * Titre de l'article
 * Titre de la revue
 * Numéro de la revue (et/ou volume)
 * Pages où se trouve l'article
-
+@ulend
 +++
 
 ### Page web
+@ul
 * Auteur(s)
 * Année de parution
 * Titre de l'article
@@ -141,7 +147,7 @@ Mêmes éléments que la monographie @color[gold](+)
 * Titre du site web
 * Date de consultation
 * Adresse URL
-
+@ulend
 ---
 
 ### Pourquoi une présentation normalisée ?
@@ -186,7 +192,7 @@ Titre en italique
 ### Conventions typographiques
 * Ponctuation simple @color[gold](.,) pas d'espace avant, une espace après
 * Ponctuation double @color[gold](!?:;) une espace avant et une espace après
-* Parenthèses et crochets @color[gold](\()[]) une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
+* Parenthèses et crochets @color[gold]((\)[]) une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
 * Utilisez les espaces insécables !
 
 ---
@@ -197,29 +203,32 @@ Titre en italique
 ### Pourquoi référencer dans le corps du texte ?
 @ul
 * Différencier ce qui vient de l'auteur et ce qu'il a emprunté
+* Attention : toutes les références doivent être citées dans le texte mais il ne doit pas y en avoir d'autres
 @ulend
-* Attention : toutes les références doivent être citées dans le texte
+
+Note:
+Leur poser la question
 
 +++
 
 ### Comment référencer dans le corps du texte ?
 
 @ul
-* 1 auteur : (Auteur, année) ex. @color[gold](\(Battini, 2018))
-* 2 auteurs : (auteur1 et auteur2, année) ex. @color[gold](\(Girault et Sauvé, 2008))
-* Plus de 3 auteurs : (auteur1 *et al.*, année) ex. @color[gold]((Laxenaire *et al.*, 2019))
+* 1 auteur : (Auteur, année) ex. (@color[gold](Battini, 2018))
+* 2 auteurs : (auteur1 et auteur2, année) ex. (@color[gold](Girault et Sauvé, 2008))
+* Plus de 3 auteurs : (auteur1 *et al.*, année) ex. (@color[gold](Laxenaire *et al.*, 2019))
 @ulend
 
 Note:
 * Leur poser la question
-* Dans la liste des auteurs : *et*, *and*, *\&*
+* Dans la liste des auteurs : *et*, *and*, *&*
 
 +++
 
 ### Quelques cas particuliers
 
-* Plusieurs publications la même année pour le même auteur (auteur, année*lettre*) ex : @color[gold]((Sauvé, 2001a)) *Doit respecter l'ordre de la liste bibliographique*
-* Référence à plusieurs publications (auteur article 1 année, auteur article 2, année) ex : @color[gold]((Ognev 1940, Kmelevskaya 1961, Naumov 1974, Dubray 1983))
+* Plusieurs publications la même année pour le même auteur (auteur, année*lettre*) ex : (@color[gold](Sauvé, 2001a)) *Doit respecter l'ordre de la liste bibliographique*
+* Référence à plusieurs publications (auteur article 1 année, auteur article 2, année) ex : (@color[gold](Ognev 1940, Kmelevskaya 1961, Naumov 1974, Dubray 1983))
 
 ---
 
