@@ -4,6 +4,7 @@
 }
 .byline {
   color: gray;
-  font-size: 0.9em;
+  font-size: 0.6em;
   letter-spacing: 2px;
+  text-align:left;
 }
