@@ -179,7 +179,7 @@ Leur demander de le faire et faire venir quelqu'un au tableau
 +++
 
 ### Page web
-* Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *@color[gold](in)* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... \<adresse URL\>
+* Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *@color[gold](in)* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... \<\adresse URL\>
 
 ---
 
@@ -189,9 +189,9 @@ Leur demander de le faire et faire venir quelqu'un au tableau
 
 ---
 ### Conventions typographiques
-* ponctuation simple ., pas d'espace avant, une espace après
-* ponctuation double !?:; une espace avant et une espace après
-* parenthèses et crochets : une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
+* ponctuation simple @color[gold](.,) pas d'espace avant, une espace après
+* ponctuation double @color[gold](!?:;) une espace avant et une espace après
+* parenthèses et crochets @color[gold](()[]) une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
 * Utilisez les espaces insécables !
 
 ---
@@ -230,7 +230,7 @@ Note:
 ### Conséquences sur la liste bibliographique
 
 * Tri par ordre alphabétique d'auteur (puis par date si plusieurs ouvrages du même auteur)
-* Si on indente, on aide le lecteur à trouver la référence [ex. article de Girault et Sauvé](https://ncloud.zaclys.com/index.php/s/s3mXEAPskEAPspd)
+* Si on indente, on aide le lecteur à trouver la référence [ex. article de Girault et Sauvé](https://ncloud.zaclys.com/index.php/s/dJYBgSfDK3JcXRM)
 * Pas de bibliographie par type de document 
 
 Note:
