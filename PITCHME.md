@@ -13,13 +13,13 @@
 <!--<br>-->
 
 
-Bibliographie 2019
-
+# Bibliographie 2019
 
 ---
 
-
-@css[text-blue fragment](Hello, World!)
+@css[fragment](Hello, World!)
+@css[fragment](Hello, World2)
+@css[fragment](Hello, World3)
 ---
 @ul
 
@@ -31,13 +31,10 @@ Bibliographie 2019
 ---
 
 @box[text-orange span-80 fragment](Mars Attacks # Greetings earthlings. We come in peace!)
+@box[text-orange span-80 fragment](Coucou)
 
 ---
 ## À quoi ça sert ?
-Note: demander aux étudiant qui a déjà fait de la biblio  
-Note: demander aux étudiants de chercher à quoi ça sert individuellement  
-	* puis de confronter à deux
-	* puis de donner la réponse
 
 @ul
 * Documenter et argumenter un travail
@@ -48,6 +45,10 @@ Note: demander aux étudiants de chercher à quoi ça sert individuellement
 	* Permet parfois de mieux cerner votre point de vue
 @ulend
 
+Note: demander aux étudiant qui a déjà fait de la biblio  
+Note: demander aux étudiants de chercher à quoi ça sert individuellement  
+	* puis de confronter à deux
+	* puis de donner la réponse
 +++
 
 **Bibliographie = outil pour réussir une bonne argumentation**
