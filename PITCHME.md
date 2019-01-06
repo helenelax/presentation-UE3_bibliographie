@@ -260,9 +260,3 @@ www.zotero.org
 Pour retrouver cette présentation : 
 
 https://gitpitch.com/helenelax/presentation-UE3_bibliographie/master
-
----
-
-
-
-
