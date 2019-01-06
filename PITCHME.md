@@ -59,13 +59,27 @@ Note:
 @size[0.6em](3 Références de la liste appelées dans le corps de texte)  
 @size[0.6em](3+. Toutes les références de la liste appelées)  
 @size[0.6em](4 Bibliographie judicieusement utilisée pour argumenter quelques points)  
+@size[0.6em](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
+@size[0.6em](5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
+
+---
+## Niveau d'exigence
+@size[0.6em](0 Aucun travail bibliographique apparent)  
+@size[0.6em](1 Sources bibliographiques consultées mais non apparentes)  
+@size[0.6em](2 Liste de références)  
+@size[0.6em](2+ Liste de références normalisées)  
+@size[0.6em](3 Références de la liste appelées dans le corps de texte)  
+@size[0.6em](3+. Toutes les références de la liste appelées)  
+@size[0.6em](4 Bibliographie judicieusement utilisée pour argumenter quelques points)  
 @css[misevaleur](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
 @size[0.6em](5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
 
 ---
 
 ## Les éléments qui doivent apparaitre dans une bibliographie
-### Le type de document
+
+Varient selon le type de document
+
 Note: 
 Leur donner les documents et leur demander d'identifier le type 
 
@@ -89,26 +103,71 @@ Et un PDF ? Et un site web ?
 
 ---
 ### Quels sont les éléments importants ? Pourquoi ?
-Permettre au lecteur de se faire une idée sur le document
+Objectif : Permettre au lecteur de se faire une idée sur le document
 
 Note: 
 Par deux ils listent les éléments qui leurs semblent important pour chacun des 5 types, certains sont communs
 
 ---
 
-#### Monographie
-* Auteurs
-* Titre de l'ensemble physique : revue, monographie, site web
-* Titre de la partie (le cas échéant) : article, chapitre, contribution, page web
+### Monographie
+* Auteur(s) (@color[gold](dans l'ordre où ils sont écrits))
 * Année de parution
-* 
+* Titre de la monographie 
+* Éditeur(s)
+* Lieu d'édition
+* Nombre de pages
+* Collection
 
+### Chapitre de monographie
+Mêmes éléments que la monographie @size[2em](+)
+* le titre du chapitre
+* les numéros de pages où se trouvent le chapitre
+* on ne mentionne pas le nombre total de page
 
-Leur faire découvrir comment on les reconnait
-Leur faire des tests en affichant des références et en leur demandant à quoi elles correspondent
-Les éléments qu'on doit retrouver
+### Contribution à une monographie
+Mêmes éléments que la monographie @size[2em](+)
+* le titre de la contribution
+* le(s) auteur(s) de la contribution
+* les numéros de pages où se trouvent le chapitre
+* on ne mentionne pas le nombre total de page
+
+### Article de revue
+* Auteur(s) (@color[gold](dans l'ordre où ils sont écrits))
+* Année de parution
+* Titre de l'article
+* Titre de la revue
+* Numéro de la revue (et/ou volume)
+* Pages où se trouve l'article
+
+### Page web
+* Auteur(s)
+* Année de parution
+* Titre de l'article
+* Auteur(s) ou entité éditrice du site web
+* Titre du site web
+* Date de consultation
+* Adresse URL
 
 ---
+### Présentation normalisée
+#### Monographie
+* Auteur(s), @color[blue]([Mentions éventuelles]) (Année). *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages.
+
+### Présentation normalisée
+#### Monographie
+
+### Présentation normalisée
+#### Monographie
+
+### Présentation normalisée
+#### Monographie
+
+### Présentation normalisée
+#### Monographie
+
+### Présentation normalisée
+#### Monographie
 
 ## Comment on appelle dans le corps du texte
 pourquoi appeler dans le corps du texte
