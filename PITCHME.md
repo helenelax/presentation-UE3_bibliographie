@@ -55,9 +55,9 @@ Note:
 @css[text-left](0 Aucun travail bibliographique apparent)  
 @size[0.5em](1 Sources bibliographiques consultées mais non apparentes)  
 @css[byline](2 Liste de références)  
-2+ Liste de références normalisées  
-3 Références de la liste appelées dans le corps de texte  
-3+. Toutes les références de la liste appelées  
+@css[text-left](2+ Liste de références normalisées)  
+@css[text-left](3 Références de la liste appelées dans le corps de texte)  
+@css[text-left](3+. Toutes les références de la liste appelées)  
 4 Bibliographie judicieusement utilisée pour argumenter quelques points  
 4+ Bibliographie systématiquement utilisée dans l’argumentation  
 5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport
