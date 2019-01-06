@@ -52,7 +52,7 @@ Note:
 ---
 
 ## Niveau d'exigence
-@css[align-gauche](0 Aucun travail bibliographique apparent)  
+@css[text-left](0 Aucun travail bibliographique apparent)  
 @size[0.5em](1 Sources bibliographiques consultées mais non apparentes)  
 @css[byline](2 Liste de références)  
 2+ Liste de références normalisées  
