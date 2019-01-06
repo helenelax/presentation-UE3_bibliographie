@@ -85,22 +85,16 @@ Leur donner les documents et leur demander d'identifier le type
 
 ---
 
-### 5 types de documents
+### 4 types de documents
 * monographie
-* chapitre de monographie
 * contribution à une monographie
 * article de revue
 * page web
 
 Note: 
-Et un PDF ? Et un site web ?
-
----
-
-### Pourquoi une présentation normalisée ?
-- permet d'identifier le type de document
-- permet de reconnaitre les différents éléments importants du document
-
+* Et un PDF ? Et un site web ?
+* Dans les faits, vous sallez surtout référencer des livres, des articles et des contributions
+* Il y en a d'autres : thèse, chapitre de monographie
 ---
 ### Quels sont les éléments importants ? Pourquoi ?
 Objectif : Permettre au lecteur de se faire une idée sur le document
@@ -119,18 +113,23 @@ Par deux ils listent les éléments qui leurs semblent important pour chacun des
 * Nombre de pages
 * Collection
 
++++
+
 ### Chapitre de monographie
 Mêmes éléments que la monographie @size[2em](+)
 * le titre du chapitre
 * les numéros de pages où se trouvent le chapitre
 * on ne mentionne pas le nombre total de page
 
++++
+
 ### Contribution à une monographie
 Mêmes éléments que la monographie @size[2em](+)
 * le titre de la contribution
 * le(s) auteur(s) de la contribution
 * les numéros de pages où se trouvent le chapitre
-* on ne mentionne pas le nombre total de page
+
++++
 
 ### Article de revue
 * Auteur(s) (@color[gold](dans l'ordre où ils sont écrits))
@@ -139,6 +138,8 @@ Mêmes éléments que la monographie @size[2em](+)
 * Titre de la revue
 * Numéro de la revue (et/ou volume)
 * Pages où se trouve l'article
+
++++
 
 ### Page web
 * Auteur(s)
@@ -150,30 +151,52 @@ Mêmes éléments que la monographie @size[2em](+)
 * Adresse URL
 
 ---
-### Présentation normalisée
-#### Monographie
-* Auteur(s), @color[blue]([Mentions éventuelles]) (Année). *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages.
+
+### Pourquoi une présentation normalisée ?
+@ul
+- permet d'identifier le type de document
+- permet de reconnaitre les différents éléments importants du document
+@ulend
+
+---
+## Présentation normalisée
+### Monographie
+* Auteur(s), @color[gold]([Mentions éventuelles]) (Année). *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages.
+
++++
+
+## Présentation normalisée
+### Article de revue
+
+Auteur(s) de l’article, Année. Titre de l’article. *Nom de la revue*, Numéro du tome (ou volume), (numéro de fascicule) : n° première page – n° dernière page.
+
++++
 
 ### Présentation normalisée
-#### Monographie
+#### Contribution à une monographie
+Auteur(s) de la contribution, Année. Titre de la contribution. Pages n° première page – n° dernière page *@color[gold](in)* Auteur(s) du livre, @color[gold]([Mentions éventuelles]), *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages. 
+
++++
 
 ### Présentation normalisée
-#### Monographie
+#### Page web
+Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *@color[gold](in)* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... <adresse URL>  
 
-### Présentation normalisée
-#### Monographie
+---
 
-### Présentation normalisée
-#### Monographie
+## Référence dans le corps du texte
+### Pourquoi appeler dans le corps du texte ?
 
-### Présentation normalisée
-#### Monographie
+* Différencier ce qui vient de l'auteur et ce qu'il a emprunté
 
-## Comment on appelle dans le corps du texte
-pourquoi appeler dans le corps du texte
-comment le faire
-règle : dans la biblio on retrouve tout ce qui est appelé dans le corps du texte mais que ce qui est appelé
+* Toutes les références doivent être citées dans le texte
 
++++
+
+### Comment référencer dans le corps du texte ?
+
+Note:
+Leur poser la question
 ---
 
 ## Où on trouve des documents ,
