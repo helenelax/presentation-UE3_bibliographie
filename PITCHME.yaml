@@ -7,7 +7,7 @@
 
 
 
-
+theme-override : PITCHME.css
 highlight : atom-one-dark
 transition : fade
 #transition possible : convex, concave, default, fade, none, slide (par defaut) and zoom
