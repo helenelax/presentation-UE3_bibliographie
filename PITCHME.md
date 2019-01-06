@@ -41,12 +41,6 @@ Note:
 * Aider le lecteur
 	* Identification rapide et facile des documents exploités
 	* Permet parfois de mieux cerner votre point de vue
-
-+++
-* Aider le lecteur
-	* Identification rapide et facile des documents exploités
-	* Permet parfois de mieux cerner votre point de vue
-
 +++
 
 **Bibliographie = outil pour réussir une bonne argumentation**
@@ -54,29 +48,29 @@ Note:
 ---
 
 ## Niveau d'exigence
-* @size[0.6em](0 Aucun travail bibliographique apparent)  
-* @size[0.6em](1 Sources bibliographiques consultées mais non apparentes)  
+* @size[0.6em](**0** Aucun travail bibliographique apparent)  
+* @size[0.6em](**1** Sources bibliographiques consultées mais non apparentes)  
 * @size[0.6em](2 Liste de références)  
 * @size[0.6em](2+ Liste de références normalisées)  
-@size[0.6em](3 Références de la liste appelées dans le corps de texte)  
-@size[0.6em](3+. Toutes les références de la liste appelées)  
-@size[0.6em](4 Bibliographie judicieusement utilisée pour argumenter quelques points)  
-@size[0.6em](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
-@size[0.6em](5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
+* @size[0.6em](3 Références de la liste appelées dans le corps de texte)  
+* @size[0.6em](3+. Toutes les références de la liste appelées)  
+* @size[0.6em](4 Bibliographie judicieusement utilisée pour argumenter quelques points)  
+* @size[0.6em](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
+* @size[0.6em](5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
 
 Note:
 Leur demander à quel niveau ils doivent être
 ---
 ## Niveau d'exigence
-@size[0.6em](0 Aucun travail bibliographique apparent)  
-@size[0.6em](1 Sources bibliographiques consultées mais non apparentes)  
-@size[0.6em](2 Liste de références)  
-@size[0.6em](2+ Liste de références normalisées)  
-@size[0.6em](3 Références de la liste appelées dans le corps de texte)  
-@size[0.6em](3+. Toutes les références de la liste appelées)  
-@size[0.6em](4 Bibliographie judicieusement utilisée pour argumenter quelques points)  
-@css[misevaleur](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
-@size[0.6em](5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
+* @size[0.6em](0 Aucun travail bibliographique apparent)  
+* @size[0.6em](1 Sources bibliographiques consultées mais non apparentes)  
+* @size[0.6em](2 Liste de références)  
+* @size[0.6em](2+ Liste de références normalisées)  
+* @size[0.6em](3 Références de la liste appelées dans le corps de texte)  
+* @size[0.6em](3+. Toutes les références de la liste appelées)  
+* @size[0.6em](4 Bibliographie judicieusement utilisée pour argumenter quelques points)  
+* @css[misevaleur](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
+* @size[0.6em](5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
 
 ---
 
@@ -96,16 +90,18 @@ Leur donner les documents et leur demander d'identifier le type
 * page web
 
 Note: 
-* Et un PDF ? Et un site web ?
-* Dans les faits, vous sallez surtout référencer des livres, des articles et des contributions
+* Vous en voyez d'autres ?
 * Il y en a d'autres : thèse, chapitre de monographie
+* Dans les faits, vous allez surtout référencer des livres, des articles et des contributions
+* Et un PDF ? Et un site web ?
+* **Distribuer documents**
 ---
 ### Quels sont les éléments importants ? Pourquoi ?
 Objectif : Permettre au lecteur de se faire une idée sur le document
 
 Note: 
-Par deux ils listent les éléments qui leurs semblent important pour chacun des 5 types, certains sont communs
-
+* Par deux ils listent les éléments qui leurs semblent important pour chacuns des 4 types, certains sont communs
+* Puis j'interroge un groupe pour chacun des types et je montre ensuite la diapo
 ---
 
 ### Monographie
@@ -119,19 +115,11 @@ Par deux ils listent les éléments qui leurs semblent important pour chacun des
 
 +++
 
-### Chapitre de monographie
-Mêmes éléments que la monographie @size[2em](+)
-* le titre du chapitre
-* les numéros de pages où se trouvent le chapitre
-* on ne mentionne pas le nombre total de page
-
-+++
-
 ### Contribution à une monographie
-Mêmes éléments que la monographie @size[2em](+)
-* le titre de la contribution
-* le(s) auteur(s) de la contribution
-* les numéros de pages où se trouvent le chapitre
+Mêmes éléments que la monographie @color[gold](+)
+* Titre de la contribution
+* Auteur(s) de la contribution
+* Numéros de pages où se trouve la contribution
 
 +++
 
@@ -162,59 +150,63 @@ Mêmes éléments que la monographie @size[2em](+)
 - permet de reconnaitre les différents éléments importants du document
 @ulend
 
+Note:
+Leur poser la question
 ---
 
 ### Monographie
+
 * Auteur(s), @color[gold]([Mentions éventuelles]), Année. *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition. (collection). Nombre total de pages
 
+
 Note:
-Leur demander de le faire et faire venir quelqu'un au tableau
+Leur demander de le faire et faire venir quelqu'un au tableau pour chaque type
 +++
 
 ### Article de revue
 
 * Auteur(s) de l’article, Année. Titre de l’article. *Nom de la revue*, Numéro du tome (ou volume), (numéro de fascicule) : n° première page – n° dernière page
 
+Note:
+Titre en italique
 +++
 
 ### Contribution à une monographie
+
 * Auteur(s) de la contribution, Année. Titre de la contribution. Pages n° première page – n° dernière page *@color[gold](in)* Auteur(s) du livre, @color[gold]([Mentions éventuelles]), *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages
 
 +++
 
 ### Page web
-* Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *@color[gold](in)* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... \<\adresse URL\>
 
----
+* Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *@color[gold](in)* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... \<adresse URL\>
 
-### Conventions
-
-* s'il y a un sous-titre, le séparer du titre principal par deux points 
 
 ---
 ### Conventions typographiques
-* ponctuation simple @color[gold](.,) pas d'espace avant, une espace après
-* ponctuation double @color[gold](!?:;) une espace avant et une espace après
-* parenthèses et crochets @color[gold](()[]) une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
+* Ponctuation simple @color[gold](.,) pas d'espace avant, une espace après
+* Ponctuation double @color[gold](!?:;) une espace avant et une espace après
+* Parenthèses et crochets @color[gold](\()[]) une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
 * Utilisez les espaces insécables !
 
 ---
 
-## Référence dans le corps du texte
+## Références dans le corps du texte
 
 +++
-### Pourquoi appeler dans le corps du texte ?
-
+### Pourquoi référencer dans le corps du texte ?
+@ul
 * Différencier ce qui vient de l'auteur et ce qu'il a emprunté
-* Toutes les références doivent être citées dans le texte
+@ulend
+* Attention : toutes les références doivent être citées dans le texte
 
 +++
 
 ### Comment référencer dans le corps du texte ?
 
 @ul
-* 1 auteur : (Auteur, année) ex. @color[gold]((Battini, 2018))
-* 2 auteurs : (auteur1 et auteur2, année) ex. @color[gold]((Girault et Sauvé, 2008))
+* 1 auteur : (Auteur, année) ex. @color[gold](\(Battini, 2018))
+* 2 auteurs : (auteur1 et auteur2, année) ex. @color[gold](\(Girault et Sauvé, 2008))
 * Plus de 3 auteurs : (auteur1 *et al.*, année) ex. @color[gold]((Laxenaire *et al.*, 2019))
 @ulend
 
@@ -235,7 +227,7 @@ Note:
 
 * Tri par ordre alphabétique d'auteur (puis par date si plusieurs ouvrages du même auteur)
 * Si on indente, on aide le lecteur à trouver la référence [ex. article de Girault et Sauvé](https://ncloud.zaclys.com/index.php/s/dJYBgSfDK3JcXRM)
-* Pas de bibliographie par type de document 
+* Pas de bibliographie par type de document !
 
 Note:
 En profiter pour leur demander de repérer les types de documents sur la bibliographie de l'article de Sauvé
