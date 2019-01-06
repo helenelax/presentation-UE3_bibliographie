@@ -34,11 +34,13 @@ Note:
 	* puis de confronter à deux
 	* puis de donner la réponse
 +++
-## À quoi ça sert ?
+
 * Documenter et argumenter un travail
 * Valoriser son travail : appui et illustration de ses propres réflexions
 * Faire preuve d'honnêteté scientifique et intellectuelle
 * Aider le lecteur
+	* Identification rapide et facile des documents exploités
+	* Permet parfois de mieux cerner votre point de vue
 
 +++
 * Aider le lecteur
@@ -52,16 +54,18 @@ Note:
 ---
 
 ## Niveau d'exigence
-@size[0.6em](0 Aucun travail bibliographique apparent)  
-@size[0.6em](1 Sources bibliographiques consultées mais non apparentes)  
-@size[0.6em](2 Liste de références)  
-@size[0.6em](2+ Liste de références normalisées)  
+* @size[0.6em](0 Aucun travail bibliographique apparent)  
+* @size[0.6em](1 Sources bibliographiques consultées mais non apparentes)  
+* @size[0.6em](2 Liste de références)  
+* @size[0.6em](2+ Liste de références normalisées)  
 @size[0.6em](3 Références de la liste appelées dans le corps de texte)  
 @size[0.6em](3+. Toutes les références de la liste appelées)  
 @size[0.6em](4 Bibliographie judicieusement utilisée pour argumenter quelques points)  
 @size[0.6em](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
 @size[0.6em](5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
 
+Note:
+Leur demander à quel niveau ils doivent être
 ---
 ## Niveau d'exigence
 @size[0.6em](0 Aucun travail bibliographique apparent)  
@@ -161,7 +165,7 @@ Mêmes éléments que la monographie @size[2em](+)
 ---
 
 ### Monographie
-* Auteur(s), @color[gold]([Mentions éventuelles]), Année. *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition. (collection). Nombre total de pages.
+* Auteur(s), @color[gold]([Mentions éventuelles]), Année. *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition. (collection). Nombre total de pages
 
 Note:
 Leur demander de le faire et faire venir quelqu'un au tableau
@@ -169,12 +173,12 @@ Leur demander de le faire et faire venir quelqu'un au tableau
 
 ### Article de revue
 
-* Auteur(s) de l’article, Année. Titre de l’article. *Nom de la revue*, Numéro du tome (ou volume), (numéro de fascicule) : n° première page – n° dernière page.
+* Auteur(s) de l’article, Année. Titre de l’article. *Nom de la revue*, Numéro du tome (ou volume), (numéro de fascicule) : n° première page – n° dernière page
 
 +++
 
 ### Contribution à une monographie
-* Auteur(s) de la contribution, Année. Titre de la contribution. Pages n° première page – n° dernière page *@color[gold](in)* Auteur(s) du livre, @color[gold]([Mentions éventuelles]), *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages. 
+* Auteur(s) de la contribution, Année. Titre de la contribution. Pages n° première page – n° dernière page *@color[gold](in)* Auteur(s) du livre, @color[gold]([Mentions éventuelles]), *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages
 
 +++
 
@@ -197,21 +201,21 @@ Leur demander de le faire et faire venir quelqu'un au tableau
 ---
 
 ## Référence dans le corps du texte
+
++++
 ### Pourquoi appeler dans le corps du texte ?
 
-@ul
 * Différencier ce qui vient de l'auteur et ce qu'il a emprunté
 * Toutes les références doivent être citées dans le texte
-@ulend
 
 +++
 
 ### Comment référencer dans le corps du texte ?
 
 @ul
-* 1 auteur : (Auteur, année) ex. (Battini, 2018)
-* 2 auteurs : (auteur1 et auteur2, année) ex. (Girault et Sauvé, 2008)
-* Plus de 3 auteurs : (auteur1 *et al.*, année) ex. (Laxenaire *et al.*, 2019)
+* 1 auteur : (Auteur, année) ex. @color[gold]((Battini, 2018))
+* 2 auteurs : (auteur1 et auteur2, année) ex. @color[gold]((Girault et Sauvé, 2008))
+* Plus de 3 auteurs : (auteur1 *et al.*, année) ex. @color[gold]((Laxenaire *et al.*, 2019))
 @ulend
 
 Note:
@@ -222,8 +226,8 @@ Note:
 
 ### Quelques cas particuliers
 
-* Plusieurs publications la même année pour le même auteur (auteur, année*lettre*) ex : (Sauvé, 2001a) *Doit respecter l'ordre de la liste bibliographique*
-* Référence à plusieurs publications (auteur article 1 année, auteur article 2, année) ex : (Ognev 1940, Kmelevskaya 1961, Naumov 1974, Dubray 1983)
+* Plusieurs publications la même année pour le même auteur (auteur, année*lettre*) ex : @color[gold]((Sauvé, 2001a)) *Doit respecter l'ordre de la liste bibliographique*
+* Référence à plusieurs publications (auteur article 1 année, auteur article 2, année) ex : @color[gold]((Ognev 1940, Kmelevskaya 1961, Naumov 1974, Dubray 1983))
 
 ---
 
