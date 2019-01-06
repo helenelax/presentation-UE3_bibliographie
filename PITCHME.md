@@ -45,8 +45,8 @@
 	* Permet parfois de mieux cerner votre point de vue
 @ulend
 
-Note: demander aux étudiant qui a déjà fait de la biblio  
-Note: demander aux étudiants de chercher à quoi ça sert individuellement  
+Note:demander aux étudiant qui a déjà fait de la biblio  
+Note:demander aux étudiants de chercher à quoi ça sert individuellement  
 	* puis de confronter à deux
 	* puis de donner la réponse
 +++
