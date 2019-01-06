@@ -2,9 +2,8 @@
   border: 0; /*enlève la bordure aux images*/
   box-shadow: none;
 }
-.byline {
-  color: gray;
+.misevaleur {
+  color: red;
   font-size: 0.6em;
-  letter-spacing: 2px;
-  text-align:left;
+  text-align:right;
 }

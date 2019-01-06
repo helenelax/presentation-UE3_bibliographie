@@ -59,7 +59,7 @@ Note:
 @size[0.6em](3 Références de la liste appelées dans le corps de texte)  
 @size[0.6em](3+. Toutes les références de la liste appelées)  
 @size[0.6em](4 Bibliographie judicieusement utilisée pour argumenter quelques points)  
-@size[0.6em](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
+@css[misevaleur](4+ Bibliographie systématiquement utilisée dans l’argumentation)  
 @size[0.6em](5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
 
 ---
