@@ -26,31 +26,24 @@
 # Bibliographie
 
 ---
-essai speaker
-
-Note:
-- Offers a wide-range of enhanced presentation **tools** and **features**
-- Both on the desktop and in the cloud
-- Learn more on the GitPitch website at https://gitpitch.com
----
-
-
----
 ## À quoi ça sert ?
 
 * Documenter et argumenter un travail
 * Valoriser son travail : appui et illustration de ses propres réflexions
 * Faire preuve d'honnêteté scientifique et intellectuelle
 * Aider le lecteur
-	* Identification rapide et facile des documents exploités
-	* Permet parfois de mieux cerner votre point de vue
-
 
 Note:
 - demander aux étudiant qui a déjà fait de la biblio  
 - demander aux étudiants de chercher à quoi ça sert individuellement  
 	* puis de confronter à deux
 	* puis de donner la réponse
+
++++
+* Aider le lecteur
+	* Identification rapide et facile des documents exploités
+	* Permet parfois de mieux cerner votre point de vue
+
 +++
 
 **Bibliographie = outil pour réussir une bonne argumentation**
@@ -59,7 +52,7 @@ Note:
 
 ## Niveau d'exigence
 @css[align-gauche](0 Aucun travail bibliographique apparent)  
-@size[0.9em]1 Sources bibliographiques consultées mais non apparentes  
+@size[0.5em](1 Sources bibliographiques consultées mais non apparentes)  
 2 Liste de références  
 2+ Liste de références normalisées  
 3 Références de la liste appelées dans le corps de texte  

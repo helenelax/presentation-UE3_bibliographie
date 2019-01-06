@@ -5,13 +5,10 @@
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
 
-
-
 theme-override : PITCHME.css
-highlight : atom-one-dark
+#highlight : atom-one-dark
 transition : fade
 #transition possible : convex, concave, default, fade, none, slide (par defaut) and zoom
-
 footnote : "H. Laxenaire - Montpellier SupAgro - Institut de Florac - 2019 - CC By-Sa 4.0"
 slide-number : true
 #background : assets/image/triangles.svg
