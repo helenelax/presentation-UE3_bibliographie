@@ -101,7 +101,9 @@ Objectif : Permettre au lecteur de se faire une idée sur le document
 
 Note: 
 * Par deux ils listent les éléments qui leurs semblent important pour chacuns des 4 types, certains sont communs
-* Puis j'interroge un groupe pour chacun des types et je montre ensuite la diapo
+* Puis j'interroge un groupe pour chacun des types et je note au tableau
+* je demande pourquoi c'est important
+* je montre ensuite la diapo
 ---
 
 ### Monographie
@@ -119,10 +121,10 @@ Note:
 
 ### Contribution à une monographie
 @ul
-Mêmes éléments que la monographie @color[gold](+)
-* Titre de la contribution
-* Auteur(s) de la contribution
-* Numéros de pages où se trouve la contribution
+* Mêmes éléments que la monographie @color[gold](+)
+	* Titre de la contribution
+	* Auteur(s) de la contribution
+	* Numéros des pages où se trouve la contribution
 @ulend
 
 +++
@@ -192,7 +194,7 @@ Titre en italique
 ### Conventions typographiques
 * Ponctuation simple @color[gold](.,) pas d'espace avant, une espace après
 * Ponctuation double @color[gold](!?:;) une espace avant et une espace après
-* Parenthèses et crochets @color[gold]((\)[]) une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
+* Parenthèses et crochets @color[gold]([]()) une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
 * Utilisez les espaces insécables !
 
 ---
