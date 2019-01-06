@@ -30,6 +30,17 @@
 @ulend
 ---
 
+# GitPitch Pro
+
+#### The Markdown Presentation Service on Git
+
+Note:
+
+- Offers a wide-range of enhanced presentation **tools** and **features**
+- Both on the desktop and in the cloud
+- Learn more on the GitPitch website at https://gitpitch.com
+---
+
 @box[text-orange span-80 fragment](Mars Attacks # Greetings earthlings. We come in peace!)
 @box[text-orange span-80 fragment](Coucou)
 
