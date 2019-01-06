@@ -159,59 +159,99 @@ Mêmes éléments que la monographie @size[2em](+)
 @ulend
 
 ---
-## Présentation normalisée
-### Monographie
-* Auteur(s), @color[gold]([Mentions éventuelles]) (Année). *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages.
 
+### Monographie
+* Auteur(s), @color[gold]([Mentions éventuelles]), Année. *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition. (collection). Nombre total de pages.
+
+Note:
+Leur demander de le faire et faire venir quelqu'un au tableau
 +++
 
-## Présentation normalisée
 ### Article de revue
 
-Auteur(s) de l’article, Année. Titre de l’article. *Nom de la revue*, Numéro du tome (ou volume), (numéro de fascicule) : n° première page – n° dernière page.
+* Auteur(s) de l’article, Année. Titre de l’article. *Nom de la revue*, Numéro du tome (ou volume), (numéro de fascicule) : n° première page – n° dernière page.
 
 +++
 
-### Présentation normalisée
-#### Contribution à une monographie
-Auteur(s) de la contribution, Année. Titre de la contribution. Pages n° première page – n° dernière page *@color[gold](in)* Auteur(s) du livre, @color[gold]([Mentions éventuelles]), *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages. 
+### Contribution à une monographie
+* Auteur(s) de la contribution, Année. Titre de la contribution. Pages n° première page – n° dernière page *@color[gold](in)* Auteur(s) du livre, @color[gold]([Mentions éventuelles]), *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages. 
 
 +++
 
-### Présentation normalisée
-#### Page web
-Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *@color[gold](in)* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... <adresse URL>  
+### Page web
+* Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *@color[gold](in)* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... \<adresse URL\>
+
+---
+
+### Conventions
+
+* s'il y a un sous-titre, le séparer du titre principal par deux points 
+
+---
+### Conventions typographiques
+* ponctuation simple ., pas d'espace avant, une espace après
+* ponctuation double !?:; une espace avant et une espace après
+* parenthèses et crochets : une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
+* Utilisez les espaces insécables !
 
 ---
 
 ## Référence dans le corps du texte
 ### Pourquoi appeler dans le corps du texte ?
 
+@ul
 * Différencier ce qui vient de l'auteur et ce qu'il a emprunté
-
 * Toutes les références doivent être citées dans le texte
+@ulend
 
 +++
 
 ### Comment référencer dans le corps du texte ?
 
+@ul
+* 1 auteur : (Auteur, année) ex. (Battini, 2018)
+* 2 auteurs : (auteur1 et auteur2, année) ex. (Girault et Sauvé, 2008)
+* Plus de 3 auteurs : (auteur1 *et al.*, année) ex. (Laxenaire *et al.*, 2019)
+@ulend
+
 Note:
-Leur poser la question
+* Leur poser la question
+* Dans la liste des auteurs : *et*, *and*, *\&*
+
++++
+
+### Quelques cas particuliers
+
+* Plusieurs publications la même année pour le même auteur (auteur, année*lettre*) ex : (Sauvé, 2001a) *Doit respecter l'ordre de la liste bibliographique*
+* Référence à plusieurs publications (auteur article 1 année, auteur article 2, année) ex : (Ognev 1940, Kmelevskaya 1961, Naumov 1974, Dubray 1983)
+
 ---
 
-## Où on trouve des documents ,
-cf. e-sidoc
-1. Problématiser
-2. Trouver le vocabulaire utilisé dans le champs
+### Conséquences sur la liste bibliographique
 
----  
+* Tri par ordre alphabétique d'auteur (puis par date si plusieurs ouvrages du même auteur)
+* Si on indente, on aide le lecteur à trouver la référence [ex. article de Girault et Sauvé](https://ncloud.zaclys.com/index.php/s/s3mXEAPskEAPspd)
+* Pas de bibliographie par type de document 
 
-## Petit test d'évaluation à la fin ?
+Note:
+En profiter pour leur demander de repérer les types de documents sur la bibliographie de l'article de Sauvé
+
+---
+
+## Où chercher ?
+
+http://cdi.cdrflorac.fr
+
+Rubriques :
+* [Des références bibliographiques](https://0489998g.esidoc.fr/rubrique/view/id/7)
+* [Des articles scientifiques en texte intégral](https://0489998g.esidoc.fr/rubrique/view/id/6)
 
 ---
 
 ## Zotero
 
+Gestionnaire de références bibliographiques
+www.zotero.org
 ---
 Pour retrouver cette présentation : 
 
