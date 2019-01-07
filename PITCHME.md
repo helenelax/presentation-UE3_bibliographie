@@ -39,9 +39,14 @@ Note:
 * Documenter et argumenter un travail
 * Valoriser son travail : appui et illustration de ses propres réflexions
 * Faire preuve d'honnêteté scientifique et intellectuelle
+* Faire un état de l'art
+
++++
+
 * Aider le lecteur
 	* Identification rapide et facile des documents exploités
 	* Permet parfois de mieux cerner votre point de vue
+	* Aide pour son propre travail de bibliographie
 +++
 
 **Bibliographie = outil pour réussir une bonne argumentation**
@@ -173,7 +178,7 @@ Leur demander de le faire et faire venir quelqu'un au tableau pour chaque type
 
 ### Article de revue
 
-* Auteur(s) de l’article, Année. Titre de l’article. *Nom de la revue*, Numéro du tome (ou volume), (numéro de fascicule) : n° première page – n° dernière page
+* Auteur(s) de l’article, Année. Titre de l’article. *Nom de la revue*, Numéro du tome (ou volume), (numéro de fascicule). N° première page – n° dernière page
 
 Note:
 Titre en italique
