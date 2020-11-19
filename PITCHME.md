@@ -2,13 +2,29 @@
 title: UE3 Bibliographie
 slideOptions:
   transition: fade
-  theme: moon
-  spotlight:
-    enabled: true
+  theme: Blood
 ---
-# Bibliographie
+<style>
+span.rouge {
+    color: #f00;
+}
+span.jaune {
+    color: gold;
+}
+span.petit {
+    font-size:25px;
+}
+</style>
 
-Note: demander aux étudiant qui a déjà fait de la biblio 
+# Bibliographie
+### UE3 - LP CEEDDR
+H. Laxenaire
+
+Note: 
+* ouvrir Ticea : https://ticea.supagro.inra.fr/moodle/course/view.php?id=73
+* ouvrir le pad : https://pad.chapril.org/p/UE3_biblio
+* ouvrir Zotero
+* demander aux étudiant qui a déjà fait de la biblio 
 
 ---
 
@@ -21,7 +37,7 @@ Note:
 
 ----
 
-* Documenter et argumenter un travail
+* Documenter et <span class=jaune>argumenter un travail</span>
 * Valoriser son travail : appui et illustration de ses propres réflexions
 * Faire preuve d'honnêteté scientifique et intellectuelle
 * Faire un état de l'art
@@ -40,15 +56,16 @@ Note:
 ---
 
 ## Niveau d'exigence
-* **0** Aucun travail bibliographique apparent)
-* **1** Sources bibliographiques consultées mais non apparentes)
-* 2 Liste de références)
-* 2+ Liste de références normalisées)
-* 3 Références de la liste appelées dans le corps de texte)
-* 3+. Toutes les références de la liste appelées)
-* 4 Bibliographie judicieusement utilisée pour argumenter quelques points)
-* 4+ Bibliographie systématiquement utilisée dans l’argumentation)
-* 5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
+
+* <span class=petit>0 Aucun travail bibliographique apparent</span>
+* <span class=petit>1 Sources bibliographiques consultées mais non apparentes</span>
+* <span class=petit>2 Liste de références</span>
+* <span class=petit>2+ Liste de références normalisées</span>
+* <span class=petit>3 Références de la liste appelées dans le corps de texte</span>
+* <span class=petit>3+. Toutes les références de la liste appelées</span>
+* <span class=petit>4 Bibliographie judicieusement utilisée pour argumenter quelques points</span>
+* <span class=petit>4+ Bibliographie systématiquement utilisée dans l’argumentation</span>
+* <span class=petit>5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport</span>
 
 Note:
 Leur demander à quel niveau ils doivent être
@@ -56,15 +73,15 @@ Leur demander à quel niveau ils doivent être
 ---
 
 ## Niveau d'exigence
-* 0 Aucun travail bibliographique apparent)
-* 1 Sources bibliographiques consultées mais non apparentes)
-* 2 Liste de références)
-* 2+ Liste de références normalisées)
-* 3 Références de la liste appelées dans le corps de texte)
-* 3+. Toutes les références de la liste appelées)
-* 4 Bibliographie judicieusement utilisée pour argumenter quelques points)
-* <span style="color:gold">4+ Bibliographie systématiquement utilisée dans l’argumentation)</span>
-* 5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport)
+* <span class=petit>0 Aucun travail bibliographique apparent</span>
+* <span class=petit>1 Sources bibliographiques consultées mais non apparentes</span>
+* <span class=petit>2 Liste de références</span>
+* <span class=petit>2+ Liste de références normalisées</span>
+* <span class=petit>3 Références de la liste appelées dans le corps de texte</span>
+* <span class=petit>3+. Toutes les références de la liste appelées</span>
+* <span class=petit>4 Bibliographie judicieusement utilisée pour argumenter quelques points</span>
+* <span style="font-size:25px;color:gold">4+ Bibliographie systématiquement utilisée dans l’argumentation</span>
+* <span class=petit>5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport</span> 
 
 ---
 
@@ -82,7 +99,7 @@ Varient selon le type de document
 
 Note: 
 * **Distribuer documents**
-* Identifier les types distribués
+* **Identifier les types distribués**
 * Vous en voyez d'autres ?
 * Il y en a d'autres : thèse, chapitre de monographie
 * Dans les faits, vous allez surtout référencer des livres, des articles et des contributions
@@ -94,8 +111,8 @@ Note:
 Objectif : Permettre au lecteur de se faire une idée sur le document
 
 Note: 
-* Par deux ils listent les éléments qui leurs semblent important pour chacuns des 4 types, certains sont communs
-* Puis j'interroge un groupe pour chacun des types et je note au tableau
+* Par deux ils listent les éléments qui leurs semblent important pour chacun des 4 types, certains sont communs
+* Puis j'interroge un groupe pour chacun des types et je note sur le pad : https://pad.chapril.org/p/UE3_biblio
 * je demande pourquoi c'est important
 * je montre ensuite la diapo
 
@@ -103,7 +120,7 @@ Note:
 
 ### Monographie
 
-* Auteur(s) <span style="color:gold">(dans l'ordre où ils sont écrits)</span>
+* Auteur(s) <span class=jaune>(dans l'ordre où ils sont écrits)</span>
 * Année de parution
 * Titre de la monographie 
 * Éditeur(s)
@@ -116,7 +133,7 @@ Note:
 
 ### Contribution à une monographie
 
-* Mêmes éléments que la monographie <span style="color:gold">+</span>
+* Mêmes éléments que la monographie <span class=jaune>+</span>
 	* Titre de la contribution
 	* Auteur(s) de la contribution
 	* Numéros des pages où se trouve la contribution
@@ -124,14 +141,13 @@ Note:
 ----
 
 ### Article de revue
-@ul
+
 * Auteur(s) <span style="color:gold">(dans l'ordre où ils sont écrits)</span>
 * Année de parution
 * Titre de l'article
 * Titre de la revue
 * Numéro de la revue (et/ou volume)
 * Pages où se trouve l'article
-@ulend
 
 ----
 
@@ -158,7 +174,7 @@ Leur poser la question
 
 ### Monographie
 
-* Auteur(s), <span style="color:gold">[Mentions éventuelles]</span>, Année. *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition. (collection). Nombre total de pages
+* Auteur(s), <span class=jaune>[Mentions éventuelles]</span>, Année. *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition. (collection). Nombre total de pages
 
 
 Note:
@@ -177,21 +193,21 @@ Titre en italique
 
 ### Contribution à une monographie
 
-* Auteur(s) de la contribution, Année. Titre de la contribution. Pages n° première page – n° dernière page *<span style="color:gold">in</span>* Auteur(s) du livre, <span style="color:gold">[Mentions éventuelles]</span>, *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages
+* Auteur(s) de la contribution, Année. Titre de la contribution. Pages n° première page – n° dernière page *<span class=jaune>in</span>* Auteur(s) du livre, <span class=jaune>[Mentions éventuelles]</span>, *Titre de l’ouvrage*. Nom de l’organisme éditeur, Lieu d’édition : Nombre total de pages
 
 ----
 
 ### Page web
 
-* Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *<span style="color:gold">in</span>* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... \<adresse URL\>
+* Auteur(s) de l'article, Année. Titre de l'article. [en ligne] *<span class=jaune>in</span>* Auteur(s) ou éditeur du site. *Titre du site*. Consulté le ... \<adresse URL\>
 
 
 ---
 
 ### Conventions typographiques
-* Ponctuation simple <span style="color:gold">.,</span> pas d'espace avant, une espace après
-* Ponctuation double <span style="color:gold">!?:;</span> une espace avant et une espace après
-* Parenthèses et crochets <span style="color:gold">[]()</span> une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
+* Ponctuation simple <span class=jaune>.,</span> pas d'espace avant, une espace après
+* Ponctuation double <span class=jaune>!?:;</span> une espace avant et une espace après
+* Parenthèses et crochets <span class=jaune>[]()</span> une espace de chaque coté à l'extérieur, pas d'espace à l'intérieur
 * Utilisez les espaces insécables !
 
 ---
@@ -211,9 +227,9 @@ Leur poser la question
 
 ### Comment référencer dans le corps du texte ?
 
-* 1 auteur : (Auteur, année) ex. <span style="color:gold">(Battini, 2018)</span>
-* 2 auteurs : (auteur1 et auteur2, année) ex. <span style="color:gold">(Girault et Sauvé, 2008)</span>
-* Plus de 3 auteurs : (auteur1 *et al.*, année) ex. <span style="color:gold">(Laxenaire *et al.*, 2019)</span>
+* 1 auteur : (Auteur, année) ex. <span class=jaune>(Battini, 2018)</span>
+* 2 auteurs : (auteur1 et auteur2, année) ex. <span class=jaune>(Girault et Sauvé, 2008)</span>
+* Plus de 3 auteurs : (auteur1 *et al.*, année) ex. <span class=jaune>(Laxenaire *et al.*, 2019)</span>
 
 Note:
 * Leur poser la question
@@ -223,8 +239,8 @@ Note:
 
 ### Quelques cas particuliers
 
-* Plusieurs publications la même année pour le même auteur (auteur, année*lettre*) ex : <span style="color:gold">(Sauvé, 2001a)</span> *Doit respecter l'ordre de la liste bibliographique*
-* Référence à plusieurs publications (auteur article 1 année, auteur article 2, année) ex : <span style="color:gold">(Ognev 1940, Kmelevskaya 1961, Naumov 1974, Dubray 1983)</span>
+* Plusieurs publications la même année pour le même auteur (auteur, année*lettre*) ex : <span class=jaune>(Sauvé, 2001a)</span> *Doit respecter l'ordre de la liste bibliographique*
+* Référence à plusieurs publications (auteur article 1 année, auteur article 2, année) ex : <span class=jaune>(Ognev 1940, Kmelevskaya 1961, Naumov 1974, Dubray 1983)</span>
 
 ---
 
@@ -244,8 +260,8 @@ En profiter pour leur demander de repérer les types de documents sur la bibliog
 http://cdi.cdrflorac.fr
 
 Rubriques :
-* [Des références bibliographiques](https://0489998g.esidoc.fr/rubrique/view/id/7)
-* [Des articles scientifiques en texte intégral](https://0489998g.esidoc.fr/rubrique/view/id/6)
+* [Des références bibliographiques](https://0489998g.esidoc.fr/bienvenue-au-cdi-de-supagro-florac/trouver-des-references-de-documents/des-references-bibliographiques)
+* [Des articles scientifiques en texte intégral](https://0489998g.esidoc.fr/bienvenue-au-cdi-de-supagro-florac/trouver/des-articles-scientifiques-en-texte-integral)
 
 ---
 
@@ -258,4 +274,4 @@ www.zotero.org
 
 Pour retrouver cette présentation : 
 
-https://hackmd.io/@helenelaxenaire/Skr-vRcFP
+https://hackmd.io/@helenelaxenaire/UE3_bibliographie
